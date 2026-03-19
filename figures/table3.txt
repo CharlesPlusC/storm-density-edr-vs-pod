@@ -1,0 +1,12 @@
+Resolution           Method     SD%      r2   sigma    RMS%        N
+--------------------------------------------------------------------
+3orb_matched         POD       14.1   0.987   0.132    10.0     1229
+3orb_matched         EDR       13.3   0.993   0.125     9.3     1229
+2orb_matched         POD       15.4   0.984   0.143    11.0     1855
+2orb_matched         EDR       14.0   0.988   0.131    10.1     1855
+1orb_matched         POD       21.1   0.970   0.191    13.4     3720
+1orb_matched         EDR       13.8   0.978   0.130    11.8     3720
+1orb_native          POD       59.6   0.794   0.467    55.0   691341
+1orb_native          EDR       56.0   0.800   0.445    55.1   691341
+suborb_best          POD       45.5   0.930   0.375    34.4   684131
+suborb_best          EDR       41.8   0.938   0.350    33.3   684131
